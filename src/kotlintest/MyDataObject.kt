@@ -1,0 +1,4 @@
+package kotlintest
+
+object MyDataObject {
+}
